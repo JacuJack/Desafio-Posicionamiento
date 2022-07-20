@@ -1,0 +1,127 @@
+body {
+    background-color: #000000;
+    width: 1280px;
+    margin: 0 auto;
+    font-family: \'Raleway\', sans-serif;
+    color: white;
+}
+
+/* ----------------------- header ----------------------- */
+
+header {
+    
+    height: 800px;
+    text-align: center;
+    
+} 
+
+h1 {
+   font-size: 50px;
+   margin: 0px auto;
+   padding: 7px 0;
+   vertical-align: middle;
+}
+
+.img-header {
+    width: 1280px;
+}
+
+/*---------------------- Main------------------------ */
+.desc {
+    height: 348px;
+    display: flow-root;
+    font-weight: lighter;
+    font-size: 16px;
+}
+
+.desc img {
+    float: right;
+    height: 273px;
+    width: 399px;
+    margin: 45px 150px 66px 0px;
+    
+}
+
+.textos {
+    font-weight: lighter;
+    display: inline-block;
+    width: 475px;
+    height: 197px;
+    margin: 76px 106px 75px 150px;
+}
+
+.texto-1 {
+    margin: 0
+}
+
+.texto-2 {    
+    margin: 0
+}
+/* --------------------- icons ---------------------- */
+
+.titulo2 {
+    font-size: 47px;
+    padding-top: 75px ;
+} 
+
+.desc-icons {
+
+    height: 348px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    background-color: #1e1a13;
+    color: white;
+}
+
+.desc-icons div {
+    
+    display: inline-block;
+    padding: 70px 85px;
+}
+
+i{
+    font-size: 50px;
+    font-weight: lighter
+}
+
+.desc-icons p{
+    margin: 0 auto;
+    font-size: 24px;
+    font-weight: 10;
+}
+/* --------------------- img ---------------------- */
+
+
+.galeria {
+    margin: 3em 0;
+    text-align: center;
+  }
+  
+.galeria img {
+    padding: 0.7em;
+    height: 10em;
+    width: 20em;
+}
+
+
+/* --------------------- footer ---------------------- */
+
+footer {
+    height: 5em;
+    font-size:  1.5em;
+    text-align: center;
+    background-color: #1e1a13;
+    display: block;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+    padding: 2em;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
